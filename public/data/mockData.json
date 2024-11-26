@@ -1,0 +1,800 @@
+{
+  "tabs": [
+    {
+      "type": "brand"
+    },
+    {
+      "type": "category"
+    }
+  ],
+  "brandData": {
+    "brandInfo": {
+      "brands": {
+        "20072": {
+          "brandName": "네파",
+          "brandNameEn": "NEPA",
+          "brandNameKr": "네파"
+        },
+        "20356": {
+          "brandName": "리바이스",
+          "brandNameEn": "Levi's",
+          "brandNameKr": ""
+        },
+        "20874": {
+          "brandName": "보브",
+          "brandNameEn": "Vov",
+          "brandNameKr": ""
+        },
+        "20875": {
+          "brandName": "지컷",
+          "brandNameEn": "g_cut",
+          "brandNameKr": ""
+        },
+        "20978": {
+          "brandName": "언더아머",
+          "brandNameEn": "Under Armour",
+          "brandNameKr": ""
+        },
+        "21420": {
+          "brandName": "르까프",
+          "brandNameEn": "LECAF",
+          "brandNameKr": ""
+        },
+        "21555": {
+          "brandName": "콜한",
+          "brandNameEn": "COLE HAAN",
+          "brandNameKr": ""
+        },
+        "21669": {
+          "brandName": "티아이포맨",
+          "brandNameEn": "TI For Men",
+          "brandNameKr": ""
+        },
+        "21683": {
+          "brandName": "타미진스",
+          "brandNameEn": "Tommy Jeans",
+          "brandNameKr": ""
+        },
+        "21684": {
+          "brandName": "타미힐피거",
+          "brandNameEn": "Tommy Hilfiger",
+          "brandNameKr": ""
+        },
+        "21735": {
+          "brandName": "올포유",
+          "brandNameEn": "ALLFORYOU",
+          "brandNameKr": ""
+        },
+        "22332": {
+          "brandName": "블루페페",
+          "brandNameEn": "Blu Pepe",
+          "brandNameKr": ""
+        },
+        "22464": {
+          "brandName": "라코스테 라이브",
+          "brandNameEn": "LACOSTE LIVE",
+          "brandNameKr": ""
+        },
+        "22468": {
+          "brandName": "라푸마",
+          "brandNameEn": "Lafuma",
+          "brandNameKr": ""
+        },
+        "22541": {
+          "brandName": "리복키즈",
+          "brandNameEn": "Reebok Kids",
+          "brandNameKr": ""
+        },
+        "22559": {
+          "brandName": "라인",
+          "brandNameEn": "LINE",
+          "brandNameKr": ""
+        },
+        "22560": {
+          "brandName": "케네스 레이디",
+          "brandNameEn": "Kenneth lady",
+          "brandNameKr": ""
+        },
+        "22803": {
+          "brandName": "베네통키즈",
+          "brandNameEn": "Benetton Kids",
+          "brandNameKr": ""
+        },
+        "22907": {
+          "brandName": "에잇세컨즈",
+          "brandNameEn": "8seconds",
+          "brandNameKr": ""
+        },
+        "22972": {
+          "brandName": "탑텐",
+          "brandNameEn": "Top Ten",
+          "brandNameKr": ""
+        },
+        "23048": {
+          "brandName": "앤드지라이트",
+          "brandNameEn": "Andz Light",
+          "brandNameKr": ""
+        },
+        "23049": {
+          "brandName": "올젠",
+          "brandNameEn": "Olzen",
+          "brandNameKr": ""
+        },
+        "23051": {
+          "brandName": "톰보이",
+          "brandNameEn": "Tomboy",
+          "brandNameKr": ""
+        },
+        "23104": {
+          "brandName": "플라스틱아일랜드",
+          "brandNameEn": "PLASTIC ISLAN",
+          "brandNameKr": ""
+        },
+        "23115": {
+          "brandName": "아메리칸 투어리스터",
+          "brandNameEn": "AMERICAN TO",
+          "brandNameKr": ""
+        },
+        "23141": {
+          "brandName": "쁘띠마르숑",
+          "brandNameEn": "PETIT MARCHONS",
+          "brandNameKr": ""
+        },
+        "24007": {
+          "brandName": "압소바",
+          "brandNameEn": "absorba",
+          "brandNameKr": ""
+        },
+        "24008": {
+          "brandName": "해피랜드",
+          "brandNameEn": "HAPPYLAND",
+          "brandNameKr": ""
+        },
+        "24228": {
+          "brandName": "라움에디션",
+          "brandNameEn": "RAUM EDITION",
+          "brandNameKr": ""
+        },
+        "24229": {
+          "brandName": "마에스트로",
+          "brandNameEn": "MAESTRO",
+          "brandNameKr": ""
+        },
+        "24230": {
+          "brandName": "알레그리",
+          "brandNameEn": "allegri",
+          "brandNameKr": ""
+        },
+        "24231": {
+          "brandName": "TNGT",
+          "brandNameEn": "TNGT",
+          "brandNameKr": ""
+        },
+        "24243": {
+          "brandName": "린",
+          "brandNameEn": "LYNN",
+          "brandNameKr": ""
+        },
+        "24553": {
+          "brandName": "듀엘",
+          "brandNameEn": "Dewl",
+          "brandNameKr": ""
+        },
+        "24762": {
+          "brandName": "리복",
+          "brandNameEn": "Reebok",
+          "brandNameKr": ""
+        },
+        "25003": {
+          "brandName": "버켄스탁",
+          "brandNameEn": "BIRKENSTOCK",
+          "brandNameKr": ""
+        },
+        "25025": {
+          "brandName": "온앤온",
+          "brandNameEn": "on & on",
+          "brandNameKr": ""
+        },
+        "25321": {
+          "brandName": "이야이야오",
+          "brandNameEn": "EYAEYAO",
+          "brandNameKr": ""
+        },
+        "25478": {
+          "brandName": "MLB KIDS",
+          "brandNameEn": "MLB KIDS",
+          "brandNameKr": ""
+        },
+        "25668": {
+          "brandName": "슈펜",
+          "brandNameEn": "Shoopen",
+          "brandNameKr": ""
+        },
+        "25758": {
+          "brandName": "리스트",
+          "brandNameEn": "LIST",
+          "brandNameKr": ""
+        },
+        "25759": {
+          "brandName": "쉬즈미스",
+          "brandNameEn": "Shesmiss",
+          "brandNameKr": ""
+        },
+        "26166": {
+          "brandName": "질스튜어트",
+          "brandNameEn": "JILLSTUART",
+          "brandNameKr": ""
+        },
+        "26317": {
+          "brandName": "파슬",
+          "brandNameEn": "FOSSIL",
+          "brandNameKr": ""
+        },
+        "26499": {
+          "brandName": "헤지스",
+          "brandNameEn": "HAZZYS",
+          "brandNameKr": ""
+        },
+        "26604": { "brandName": "갭", "brandNameEn": "Gap", "brandNameKr": "" },
+        "26605": {
+          "brandName": "갭키즈",
+          "brandNameEn": "Gapkids",
+          "brandNameKr": ""
+        },
+        "26608": {
+          "brandName": "게스",
+          "brandNameEn": "GUESS",
+          "brandNameKr": ""
+        },
+        "26895": {
+          "brandName": "라코스테",
+          "brandNameEn": "LACOSTE",
+          "brandNameKr": ""
+        },
+        "27122": {
+          "brandName": "더아이잗뉴욕",
+          "brandNameEn": "The Izzat New Y",
+          "brandNameKr": ""
+        },
+        "27123": {
+          "brandName": "제이제이지고트",
+          "brandNameEn": "JJ JIGOTT",
+          "brandNameKr": ""
+        },
+        "27329": {
+          "brandName": "래핑차일드",
+          "brandNameEn": "laughing child",
+          "brandNameKr": ""
+        },
+        "27457": {
+          "brandName": "세인트제임스",
+          "brandNameEn": "SAINT JAMES",
+          "brandNameKr": ""
+        },
+        "27576": {
+          "brandName": "디어베이비",
+          "brandNameEn": "dear baby",
+          "brandNameKr": ""
+        },
+        "27577": {
+          "brandName": "베베리쉬",
+          "brandNameEn": "bebe riche",
+          "brandNameKr": ""
+        },
+        "27760": {
+          "brandName": "노스페이스",
+          "brandNameEn": "THE NORTH FACE",
+          "brandNameKr": ""
+        },
+        "27932": {
+          "brandName": "스파오",
+          "brandNameEn": "Spao",
+          "brandNameKr": ""
+        },
+        "28152": {
+          "brandName": "프로스펙스",
+          "brandNameEn": "PRO-SPECS",
+          "brandNameKr": ""
+        },
+        "28514": {
+          "brandName": "허쉘서플라이",
+          "brandNameEn": "HERSCHEL SUPPLY",
+          "brandNameKr": ""
+        },
+        "28596": {
+          "brandName": "케즈",
+          "brandNameEn": "Keds",
+          "brandNameKr": ""
+        },
+        "28721": {
+          "brandName": "모그",
+          "brandNameEn": "MOGG",
+          "brandNameKr": ""
+        },
+        "29013": {
+          "brandName": "쥬크",
+          "brandNameEn": "ZOOC",
+          "brandNameKr": ""
+        },
+        "29172": {
+          "brandName": "소다",
+          "brandNameEn": "SODA",
+          "brandNameKr": ""
+        },
+        "29336": {
+          "brandName": "바네사브루노",
+          "brandNameEn": "vanessabruno",
+          "brandNameKr": ""
+        },
+        "29484": {
+          "brandName": "베네통",
+          "brandNameEn": "Benetton",
+          "brandNameKr": ""
+        },
+        "29582": {
+          "brandName": "로가디스",
+          "brandNameEn": "ROGATIS",
+          "brandNameKr": ""
+        },
+        "29615": {
+          "brandName": "써니라이프",
+          "brandNameEn": "SUNNYLIFE",
+          "brandNameKr": ""
+        },
+        "29755": {
+          "brandName": "쌤소나이트",
+          "brandNameEn": "samsonite",
+          "brandNameKr": ""
+        },
+        "29756": {
+          "brandName": "쌤소나이트레드",
+          "brandNameEn": "samsonite RED",
+          "brandNameKr": ""
+        },
+        "29783": {
+          "brandName": "아가방",
+          "brandNameEn": "agabang",
+          "brandNameKr": ""
+        },
+        "29971": {
+          "brandName": "엘칸토",
+          "brandNameEn": "ELCANTO",
+          "brandNameKr": ""
+        },
+        "30080": {
+          "brandName": "갤러리어클락",
+          "brandNameEn": "Galleryoclock",
+          "brandNameKr": ""
+        },
+        "30209": {
+          "brandName": "BLUETAIL",
+          "brandNameEn": "BLUETAIL",
+          "brandNameKr": ""
+        },
+        "31215": {
+          "brandName": "나이키",
+          "brandNameEn": "Nike",
+          "brandNameKr": ""
+        },
+        "31251": {
+          "brandName": "씨씨콜렉트",
+          "brandNameEn": "CC Collect",
+          "brandNameKr": ""
+        },
+        "31326": {
+          "brandName": "닥터브라운",
+          "brandNameEn": "Dr Brown",
+          "brandNameKr": ""
+        },
+        "31986": {
+          "brandName": "앤드지바이지오지아",
+          "brandNameEn": "Andz By Zioz",
+          "brandNameKr": ""
+        },
+        "32018": {
+          "brandName": "아이더",
+          "brandNameEn": "EIDER",
+          "brandNameKr": ""
+        },
+        "32028": {
+          "brandName": "에고이스트",
+          "brandNameEn": "EGOIST",
+          "brandNameKr": ""
+        },
+        "32508": {
+          "brandName": "휠라",
+          "brandNameEn": "FILA",
+          "brandNameKr": ""
+        },
+        "32611": {
+          "brandName": "제이에스티나",
+          "brandNameEn": "J.ESTINA",
+          "brandNameKr": ""
+        },
+        "33435": {
+          "brandName": "스릭슨",
+          "brandNameEn": "SRIXON",
+          "brandNameKr": ""
+        },
+        "33495": {
+          "brandName": "닥스",
+          "brandNameEn": "DAKS",
+          "brandNameKr": ""
+        },
+        "33659": { "brandName": "KL", "brandNameEn": "KL", "brandNameKr": "" },
+        "34214": {
+          "brandName": "에뜨와",
+          "brandNameEn": "ETTOI",
+          "brandNameKr": ""
+        },
+        "34407": {
+          "brandName": "엠유스포츠",
+          "brandNameEn": "MU SPORTS",
+          "brandNameKr": ""
+        },
+        "34609": {
+          "brandName": "이자벨마랑",
+          "brandNameEn": "ISABEL MARANT",
+          "brandNameKr": ""
+        },
+        "34877": {
+          "brandName": "핏플랍",
+          "brandNameEn": "fitflop",
+          "brandNameKr": ""
+        },
+        "35035": {
+          "brandName": "질스튜어트 뉴욕 액세서리",
+          "brandNameEn": "JILLSTUA",
+          "brandNameKr": ""
+        },
+        "35065": {
+          "brandName": "레노마골프",
+          "brandNameEn": "renoma Golf",
+          "brandNameKr": ""
+        },
+        "35289": { "brandName": "랩", "brandNameEn": "LAP", "brandNameKr": "" },
+        "35617": {
+          "brandName": "컨버스",
+          "brandNameEn": "Converse",
+          "brandNameKr": ""
+        },
+        "35908": {
+          "brandName": "로즈몽",
+          "brandNameEn": "Rosemont",
+          "brandNameKr": ""
+        },
+        "35988": {
+          "brandName": "더틸버리",
+          "brandNameEn": "The Tilbury",
+          "brandNameKr": ""
+        },
+        "36094": {
+          "brandName": "브룩스",
+          "brandNameEn": "BROOKS",
+          "brandNameKr": ""
+        },
+        "36268": {
+          "brandName": "갤럭시(의류)",
+          "brandNameEn": "GALAXY",
+          "brandNameKr": ""
+        },
+        "36269": {
+          "brandName": "갤럭시 라이프스타일",
+          "brandNameEn": "GALAXY LIFE",
+          "brandNameKr": ""
+        },
+        "36399": {
+          "brandName": "지오지아",
+          "brandNameEn": "Ziozia",
+          "brandNameKr": ""
+        },
+        "36458": {
+          "brandName": "카밀리안트",
+          "brandNameEn": "KAMILIANT",
+          "brandNameKr": ""
+        },
+        "36475": {
+          "brandName": "퓨토",
+          "brandNameEn": "Putto",
+          "brandNameKr": ""
+        },
+        "36528": {
+          "brandName": "에디션센서빌리티",
+          "brandNameEn": "EDITIONsensib",
+          "brandNameKr": ""
+        },
+        "36586": {
+          "brandName": "알로봇",
+          "brandNameEn": "RROBOT",
+          "brandNameKr": ""
+        },
+        "36627": {
+          "brandName": "노스페이스키즈",
+          "brandNameEn": "THE NORTH FACE",
+          "brandNameKr": ""
+        },
+        "36798": {
+          "brandName": "스톤헨지",
+          "brandNameEn": "Stonehenge",
+          "brandNameKr": ""
+        },
+        "36892": {
+          "brandName": "BEEN",
+          "brandNameEn": "BEEN",
+          "brandNameKr": ""
+        },
+        "37045": {
+          "brandName": "프레드페리",
+          "brandNameEn": "FRED PERRY",
+          "brandNameKr": ""
+        },
+        "37234": {
+          "brandName": "지오다노",
+          "brandNameEn": "GIORDANO",
+          "brandNameKr": ""
+        },
+        "37394": {
+          "brandName": "행텐",
+          "brandNameEn": "HANGTEN",
+          "brandNameKr": ""
+        },
+        "42597": {
+          "brandName": "시슬리",
+          "brandNameEn": "Sisley",
+          "brandNameKr": ""
+        },
+        "43618": {
+          "brandName": "빈폴레이디스",
+          "brandNameEn": "Beanpole Ladies",
+          "brandNameKr": ""
+        },
+        "57081": {
+          "brandName": "폴햄키즈",
+          "brandNameEn": "Polham Kids",
+          "brandNameKr": ""
+        },
+        "59235": {
+          "brandName": "프로젝트엠",
+          "brandNameEn": "PROJECTM",
+          "brandNameKr": ""
+        },
+        "59267": {
+          "brandName": "리얼지오지아",
+          "brandNameEn": "Rziozia",
+          "brandNameKr": ""
+        },
+        "60222": {
+          "brandName": "헤지스키즈",
+          "brandNameEn": "HAZZYS KIDS",
+          "brandNameKr": ""
+        },
+        "60223": {
+          "brandName": "헤지스 액세서리",
+          "brandNameEn": "HAZZYS ACCESS",
+          "brandNameKr": ""
+        },
+        "60225": {
+          "brandName": "닥스 액세서리",
+          "brandNameEn": "DAKS ACCESSORY",
+          "brandNameKr": ""
+        },
+        "60226": {
+          "brandName": "닥스키즈",
+          "brandNameEn": "DAKS KIDS",
+          "brandNameKr": ""
+        },
+        "60227": {
+          "brandName": "네파 키즈",
+          "brandNameEn": "NEPA KIDS",
+          "brandNameKr": ""
+        },
+        "60239": {
+          "brandName": "휠라골프",
+          "brandNameEn": "FILA GOLF",
+          "brandNameKr": ""
+        },
+        "61225": {
+          "brandName": "닥스 골프",
+          "brandNameEn": "DAKS GOLF",
+          "brandNameKr": ""
+        },
+        "61228": {
+          "brandName": "타미힐피거키즈",
+          "brandNameEn": "Tommy Hilfiger",
+          "brandNameKr": ""
+        },
+        "61245": {
+          "brandName": "휠라언더웨어",
+          "brandNameEn": "FILA UNDERWEAR",
+          "brandNameKr": ""
+        },
+        "61246": {
+          "brandName": "휠라키즈",
+          "brandNameEn": "FILA KIDS",
+          "brandNameKr": ""
+        },
+        "61248": {
+          "brandName": "빈폴맨",
+          "brandNameEn": "Beanpole Men",
+          "brandNameKr": ""
+        },
+        "61249": {
+          "brandName": "빈폴키즈",
+          "brandNameEn": "Beanpole Kids",
+          "brandNameKr": ""
+        },
+        "61250": {
+          "brandName": "빈폴액세서리",
+          "brandNameEn": "Beanpole Access",
+          "brandNameKr": ""
+        },
+        "61252": {
+          "brandName": "빈폴골프",
+          "brandNameEn": "Beanpole Golf",
+          "brandNameKr": ""
+        },
+        "61258": {
+          "brandName": "컨버스키즈",
+          "brandNameEn": "Converse Kids",
+          "brandNameKr": ""
+        },
+        "61530": {
+          "brandName": "르무통",
+          "brandNameEn": "Lemouton",
+          "brandNameKr": ""
+        },
+        "66097": {
+          "brandName": "엘츠",
+          "brandNameEn": "eltz",
+          "brandNameKr": ""
+        },
+        "66340": {
+          "brandName": "에디션",
+          "brandNameEn": "Edition",
+          "brandNameKr": ""
+        },
+        "72635": {
+          "brandName": "빕스컬러",
+          "brandNameEn": "BibsColour",
+          "brandNameKr": ""
+        },
+        "73592": {
+          "brandName": "콘테",
+          "brandNameEn": "CONTE",
+          "brandNameKr": ""
+        },
+        "85084": {
+          "brandName": "코닥어패럴",
+          "brandNameEn": "KodakApparel",
+          "brandNameKr": ""
+        },
+        "87593": {
+          "brandName": "클레이",
+          "brandNameEn": "CLAE",
+          "brandNameKr": ""
+        },
+        "87715": {
+          "brandName": "탑텐키즈",
+          "brandNameEn": "Topten Kids",
+          "brandNameKr": ""
+        },
+        "97968": {
+          "brandName": "텐먼스",
+          "brandNameEn": "10MONTH",
+          "brandNameKr": ""
+        }
+      },
+      "indexes": {
+        "ㅎ": [24008, 37394, 28514, 26499, 60223, 60222, 32508],
+        "H": [37394, 24008, 26499, 60223, 60222, 28514],
+        "ㄷ": [33495, 61225, 60225, 60226, 31326, 27122, 35988],
+        "D": [33495, 60225, 61225, 60226, 27576, 24553, 31326],
+        "ㅋ": [36458, 35617, 61258, 22560, 33659, 28596, 85084],
+        "K": [36458, 28596, 22560, 33659, 85084],
+        "ㅂ": [29336, 25003, 29484, 22803, 27577, 20874, 36094],
+        "P": [23141, 23104, 21166, 57081, 28152, 59235, 36475],
+        "ㄹ": [24228, 22559, 26895, 22464, 22468, 27329, 35289],
+        "R": [24228, 24762, 22541, 35065, 29582, 35908, 36586],
+        "ㅇ": [29783, 23115, 32018, 24230, 36586, 24007, 23048],
+        "B": [
+          61250, 61252, 61249, 43618, 61248, 27577, 36892, 29484, 22803, 72635,
+          25003, 22332, 30209, 36094
+        ],
+        "ㅌ": [21683, 21684, 61228, 22972, 87715, 97968, 23051],
+        "T": [27122, 27760, 36627, 21084, 35988, 21669, 24231],
+        "ㅅ": [27457, 29172, 25759, 25668, 33435, 36798, 27932],
+        "S": [27457, 29755, 29756, 25759, 25668, 42597, 29172],
+        "ㅍ": [26317, 21166, 57081, 36475, 37045, 28152, 59235],
+        "ㄱ": [30080, 36269, 36268, 26604, 26605, 26608],
+        "G": [20875, 36268, 36269, 30080, 26604, 26605, 37234],
+        "O": [23049, 25025],
+        "F": [32508, 60239, 61246, 61245, 34877, 26317, 37045],
+        "L": [26895, 22464, 22468, 35289, 27329, 21420, 61530],
+        "ㅈ": [32611, 27123, 29013, 37234, 36399, 20875, 26166],
+        "A": [24007, 29783, 24230, 21735, 23115, 31986, 23048],
+        "J": [32611, 26166, 35035, 27123],
+        "E": [66340, 36528, 32028, 32018, 29971, 66097, 34214],
+        "U": [20978],
+        "ㅁ": [24229, 28721],
+        "M": [24229, 25478, 28721, 34407],
+        "Z": [36399, 29013],
+        "C": [31251, 87593, 21555, 73592, 35617, 61258],
+        "ㄴ": [31215, 20072, 60227, 27760, 36627, 21084],
+        "N": [20072, 60227, 31215],
+        "V": [29336, 20874],
+        "I": [34609]
+      }
+    },
+    "searchContent": "{items: Array(0)}",
+    "pagination": "{}",
+    "brandCodes": "[]",
+    "bigSmileData": "{isBigSmileDay: false}",
+    "areaCodePageType": 2
+  },
+  "brandsTab": {
+    "tabs": [
+      {
+        "brandNameKey": "brandNameKr",
+        "id": "tab1",
+        "items": "ㄱㄴㄷㄹㅁㅂㅅㅇㅈㅊㅋㅌㅍㅎ",
+        "language": "ko",
+        "tabName": "가나다"
+      },
+      {
+        "brandNameKey": "brandNameEn",
+        "id": "tab2",
+        "items": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+        "language": "en",
+        "tabName": "ABC"
+      }
+    ],
+    "currentTabId": "tab1",
+    "changeTab": ""
+  },
+  "categories": [
+    {
+      "categoryNo": "100000000",
+      "categoryName": "여성",
+      "categoryImageUrl": "https://image.gmarket.co.kr/hanbando/202205/38c48989-365b-446a-a6cc-7bf19670cfb0.jpg",
+      "subCategories": [
+        "{categoryName: \"자켓/코트/베스트\", categoryNo: \"200000000\"…}",
+        "{categoryName: \"야상/점퍼/패딩\", categoryNo: \"200000001\",…}",
+        "{categoryName: \"니트/가디건\", categoryNo: \"200000002\", i…}",
+        "{categoryName: \"원피스\", categoryNo: \"200000003\", isNe…}",
+        "{categoryName: \"티셔츠\", categoryNo: \"200000004\", isNe…}",
+        "{categoryName: \"바지/레깅스\", categoryNo: \"200000005\", i…}",
+        "{categoryName: \"블라우스/셔츠\", categoryNo: \"200000006\", …}",
+        "{categoryName: \"스커트\", categoryNo: \"200000007\", isNe…}",
+        "{categoryName: \"맨투맨/후드티\", categoryNo: \"200000008\", …}",
+        "{categoryName: \"가죽/모피\", categoryNo: \"200000009\", is…}",
+        "{categoryName: \"수영복/트레이닝\", categoryNo: \"200000010\",…}",
+        "{categoryName: \"정장\", categoryNo: \"200000011\", isNew…}"
+      ],
+      "isNew": false
+    },
+    "{categoryImageUrl: \"https://image.gmarket.co.kr/han…}",
+    "{categoryImageUrl: \"https://image.gmarket.co.kr/han…}",
+    "{categoryImageUrl: \"http://image.gmarket.co.kr/hanb…}",
+    "{categoryImageUrl: \"https://image.gmarket.co.kr/han…}",
+    "{categoryImageUrl: \"http://image.gmarket.co.kr/hanb…}",
+    "{categoryImageUrl: \"http://image.gmarket.co.kr/hanb…}",
+    "{categoryImageUrl: \"http://image.gmarket.co.kr/hanb…}"
+  ],
+  "currentcategoryNo": "100000000",
+  "subCategories": [
+    "{categoryName: \"자켓/코트/베스트\", categoryNo: \"200000000\"…}",
+    "{categoryName: \"야상/점퍼/패딩\", categoryNo: \"200000001\",…}",
+    "{categoryName: \"니트/가디건\", categoryNo: \"200000002\", i…}",
+    "{categoryName: \"원피스\", categoryNo: \"200000003\", isNe…}",
+    "{categoryName: \"티셔츠\", categoryNo: \"200000004\", isNe…}",
+    "{categoryName: \"바지/레깅스\", categoryNo: \"200000005\", i…}",
+    "{categoryName: \"블라우스/셔츠\", categoryNo: \"200000006\", …}",
+    "{categoryName: \"스커트\", categoryNo: \"200000007\", isNe…}",
+    "{categoryName: \"맨투맨/후드티\", categoryNo: \"200000008\", …}",
+    "{categoryName: \"가죽/모피\", categoryNo: \"200000009\", is…}",
+    "{categoryName: \"수영복/트레이닝\", categoryNo: \"200000010\",…}",
+    "{categoryName: \"정장\", categoryNo: \"200000011\", isNew…}"
+  ],
+  "toggleCategoryLayer": "ƒ bound ul() {}",
+  "isCategoryLayerVisible": false
+}
