@@ -1,21 +1,16 @@
 import classNames from "classnames";
 import React, { useState } from "react";
 
-export default function BrandTab({
-  data,
-  activeTab,
-  setActiveTab,
-  setBrandName,
-}) {
+export default function BrandTab({ data, activeTab, setActiveTab, setWord }) {
   const { tabs, currentTabId } = data || {};
-  const [activeCategoryIdx, setActiveCategoryIdx] = useState(0);
+  const [activeWordIdx, setActiveWordIdx] = useState(0);
   const handleClickTab = (t) => {
     setActiveTab(t);
-    setActiveCategoryIdx(0);
+    setActiveWordIdx(0);
   };
   const handleClickCategory = (brand, idx) => {
-    setActiveCategoryIdx(idx);
-    setBrandName(brand);
+    setActiveWordIdx(idx);
+    setWord(brand);
   };
 
   return (
@@ -60,7 +55,7 @@ export default function BrandTab({
                       href="#"
                       className={classNames(
                         "link__category",
-                        activeCategoryIdx === i && "selected"
+                        activeWordIdx === i && "selected"
                       )}
                       onClick={() => handleClickCategory(item, i)}
                     >

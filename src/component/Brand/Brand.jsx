@@ -6,29 +6,26 @@ import BrandFooter from "./BrandFooter";
 export default function Brand({ data }) {
   const { brandsTab } = data || {};
   const [activeTab, setActiveTab] = useState(brandsTab.currentTabId);
-  const [brandName, setBrandName] = useState([]);
+  const [word, setWord] = useState("");
   const [selectedBrands, setSelectedBrands] = useState([]);
-  const [brandVal, setBrandVal] = useState("");
   return (
     <div className="box__brand-index box__brand-section">
       <BrandTab
         data={data.brandsTab}
         activeTab={activeTab}
         setActiveTab={setActiveTab}
-        setBrandName={setBrandName}
+        setWord={setWord}
       />
       <BrandInfo
         data={data.brandData.brandInfo}
-        brandName={brandName}
+        word={word}
         activeTab={activeTab}
         selectedBrands={selectedBrands}
         setSelectedBrands={setSelectedBrands}
-        setBrandVal={setBrandVal}
       />
       <BrandFooter
         selectedBrands={selectedBrands}
-        brandVal={brandVal}
-        setBrandVal={setBrandVal}
+        setSelectedBrands={setSelectedBrands}
       />
     </div>
   );

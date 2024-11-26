@@ -1,19 +1,24 @@
 import React from "react";
 
-export default function BrandFooter({ selectedBrands, brandVal, setBrandVal }) {
+export default function BrandFooter({ selectedBrands, setSelectedBrands }) {
   const deleteBtn = (e) => {
     e.target.parentElement.remove();
   };
-  // console.log(brandVal, selectedBrands)
+
+  const resetBrands = () => {
+    // setSelectedBrands({});
+  };
+
   return (
     <div className="box__brand-footer">
       {selectedBrands.length > 0 && (
         <div className="box__filter-wrap">
           <div className="box__filter">
-            {selectedBrands.map((item, idx) => {
+            {selectedBrands.map((item) => {
+              const { brandName, brandSeq } = item || {};
               return (
-                <span className="text__filter" key={`brand-` + idx}>
-                  {item}
+                <span className="text__filter" key={`brand-` + brandSeq}>
+                  {brandName}
                   <button
                     type="button"
                     className="button__delete"
@@ -26,7 +31,11 @@ export default function BrandFooter({ selectedBrands, brandVal, setBrandVal }) {
             })}
           </div>
           <div className="box__reset">
-            <button type="button" className="button__reset">
+            <button
+              type="button"
+              className="button__reset"
+              onClick={resetBrands}
+            >
               <span className="for-a11y">선택 초기화</span>
             </button>
           </div>

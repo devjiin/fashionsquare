@@ -1,33 +1,37 @@
 import React, { useState } from "react";
+
 export default function CheckBox({
-  val,
-  name,
-  selectObj,
+  brand,
+  brandNameKey,
   selectedBrands,
   setSelectedBrands,
-  setBrandVal,
 }) {
-  const [isChecked, setIsChecked] = useState(false);
-    // const handleClick = (e, name) => {
-    //   setSelectedBrands([...selectInput, name]);
-    //   setBrandVal(e.target.value);
-    // };
+  const { brandSeq } = brand || {};
+  // const handleClick = (e, name) => {
+  //   setSelectedBrands([...selectInput, name]);
+  // };
 
   const handleChange = (e) => {
-    setIsChecked(!isChecked);
-    setBrandVal(e.target.value);
-    setSelectedBrands([...selectedBrands, name]);
+    if (e.target.checked) {
+      setSelectedBrands([
+        ...selectedBrands,
+        { brandName: brand[brandNameKey], brandSeq: brandSeq },
+      ]);
+    } else {
+      setSelectedBrands(
+        selectedBrands.filter((brand) => brand.brandSeq !== brandSeq)
+      );
+    }
   };
   return (
     <>
       <input
         type="checkbox"
-        id={`inp` + val}
-        checked={isChecked}
+        id={`inp` + brandSeq}
         onChange={(e) => handleChange(e)}
-        value={val}
+        value={brandSeq}
       />
-      <label htmlFor={`inp` + val}>{name}</label>
+      <label htmlFor={`inp` + brandSeq}>{brand[brandNameKey]}</label>
     </>
   );
 }

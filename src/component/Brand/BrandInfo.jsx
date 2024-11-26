@@ -3,15 +3,13 @@ import CheckBox from "./fragments/Checkbox";
 
 export default function BrandInfo({
   data,
-  brandName,
+  word,
   activeTab,
   selectedBrands,
   setSelectedBrands,
-  setBrandVal,
 }) {
   const arr = Object.keys(data.indexes);
-
-  return data.indexes[brandName] === undefined ? (
+  return data.indexes[word] === undefined ? (
     <div className="box__brand-notice">
       <p className="text">브랜드가 없습니다.</p>
       <span>다른 브랜드를 선택해주세요.</span>
@@ -21,21 +19,17 @@ export default function BrandInfo({
       <ul className="list__brand">
         {arr.map((item, i) => {
           return (
-            brandName === item &&
+            word === item &&
             data.indexes[item].map((val) => {
-              const name =
-                activeTab === "tab1"
-                  ? data.brands[val].brandNameKr
-                  : data.brands[val].brandNameEn;
               return (
                 <li className="list-item" key={val}>
                   <CheckBox
-                    val={val}
-                    name={name}
-                    selectObj = {data.brands[val]}
+                    brand={data.brands[val]}
+                    brandNameKey={
+                      activeTab === "tab1" ? "brandNameKr" : "brandNameEn"
+                    }
                     selectedBrands={selectedBrands}
                     setSelectedBrands={setSelectedBrands}
-                    setBrandVal={setBrandVal}
                   />
                 </li>
               );
